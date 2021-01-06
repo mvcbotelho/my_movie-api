@@ -9,7 +9,7 @@
     "prod": "NODE_ENV=production node dist/server.js"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chalk": "^4.0.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
